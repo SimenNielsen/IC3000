@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IC3000", "IC3000.csproj", "{1BC47FB8-D05A-4333-8F41-6E6B8A94B92C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BC47FB8-D05A-4333-8F41-6E6B8A94B92C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BC47FB8-D05A-4333-8F41-6E6B8A94B92C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BC47FB8-D05A-4333-8F41-6E6B8A94B92C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BC47FB8-D05A-4333-8F41-6E6B8A94B92C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDB12D42-DB52-4909-A806-0B6D7C1A60AF}
+	EndGlobalSection
+EndGlobal
